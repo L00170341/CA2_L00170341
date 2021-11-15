@@ -21,7 +21,7 @@ print("_"*47)
 
 answer=input("Please choose an option: ")
 print("Your answer was: {}".format(answer))
-print("Add check for formatting here")
+print("Code Cov test")
 
 
 print("{:>30}".format(title2))
